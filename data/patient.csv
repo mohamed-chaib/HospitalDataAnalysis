@@ -1,0 +1,5 @@
+PatientID,Age,Sex,BloodPressure,Cholesterol,Diagnosis
+1,35,male,12,12,good
+2,40,male,13,11,good
+3,65,female,14,10,danger
+4,37,male,12,10,good
